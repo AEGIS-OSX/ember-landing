@@ -1,31 +1,31 @@
 {
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ember-landing/cleo/1781015021917-hero.png",
+    "alt": "Low-angle close-up of a hand pouring espresso into a ceramic cup on a reclaimed wood counter; the left side reserves a cream tonal band for overlaid copy. The warm tungsten lighting, film grain, and b",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ember-landing/cleo/1781015189552-feature_1.png",
+    "alt": "Overhead close shot of hands scooping single-origin beans into a brass scoop on cream paper and a warm sand placemat. The tactile paper grain, brass detail, and brand palette emphasize provenance and ",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ember-landing/cleo/1781015339197-feature_2.png",
+    "alt": "Low-angle close-up of a barista tamping espresso in a portafilter with a small brass accent on the counter edge. The composition and tactile metal and wood textures reinforce craftsmanship and pair vi",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ember-landing/cleo/1781014822442-feature_3.png",
+    "alt": "Wide interior morning shot of the café counter with sunlight bands; rich earthy palette and matte paper-grain overlay create context for location teaser while keeping composition open for copy.",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ember-landing/cleo/1781014988172-social_proof.png",
+    "alt": "Top-down tactile shot of three hands reaching for cream cups with a stamped handwritten note; warm, imperfect, and crafted — suitable as a subtle background for testimonials or accent sections.",
     "width": 1200,
     "height": 800
   }
